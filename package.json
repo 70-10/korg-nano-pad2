@@ -6,16 +6,10 @@
     "url": "https://github.com/70-10/korg-nano-pad2/issues"
   },
   "dependencies": {
-    "eventemitter2": "2.1.0",
+    "eventemitter2": "2.2.0",
     "midi": "0.9.5"
   },
-  "devDependencies": {
-    "babel-cli": "6.14.0",
-    "babel-eslint": "6.1.2",
-    "babel-preset-es2015": "6.14.0",
-    "del-cli": "0.2.0",
-    "eslint": "3.4.0"
-  },
+  "devDependencies": {},
   "directories": {
     "test": "test"
   },
@@ -31,11 +25,6 @@
     "url": "git+https://github.com/70-10/korg-nano-pad2.git"
   },
   "scripts": {
-    "build": "babel src --out-dir lib  --source-maps-inline",
-    "build:watch": "babel src --out-dir lib --watch --source-maps-inline",
-    "clean": "del lib",
-    "prepublish": "npm run build",
-    "start": "node lib/index.js",
     "test": ""
   }
 }

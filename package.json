@@ -6,7 +6,7 @@
     "url": "https://github.com/70-10/korg-nano-pad2/issues"
   },
   "dependencies": {
-    "eventemitter2": "2.2.0",
+    "eventemitter2": "^5.0.0",
     "midi": "0.9.5"
   },
   "devDependencies": {},

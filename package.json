@@ -19,7 +19,7 @@
   "homepage": "https://github.com/70-10/korg-nano-pad2#readme",
   "keywords": [],
   "license": "MIT",
-  "main": "lib/nano-pad.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/70-10/korg-nano-pad2.git"

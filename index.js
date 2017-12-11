@@ -1,4 +1,4 @@
-const NanoPad = require("./nano-pad");
+const NanoPad = require("./lib/nano-pad");
 
 module.exports = {
   create
